@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I'm a weebs/love anime thingy
 
 ### All my sosmed on my website:
-
 [![Website](https://img.shields.io/website?label=pikrintr.carrd.co&style=for-the-badge&url=https%3A%2F%2Fpikrintr.carrd.co)](https://pikrintr.carrd.co/)
 
 <br />
