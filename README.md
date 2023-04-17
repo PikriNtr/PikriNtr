@@ -1,18 +1,10 @@
-### yo 
-
-
-
-## Idk . i'm student + beginner
-
--  I hate studying something what i did'nt want it
--  I'm looking for MEP editing/coding something
--  Goals: Be happier
-
 ### All my sosmed on my website:
 [![Website](https://img.shields.io/website?label=pikrintr.carrd.co&style=for-the-badge&url=https%3A%2F%2Fpikrintr.carrd.co)](https://pikrintr.carrd.co/)
 
 <br />
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PikriNtr)](https://github.com/LordDashMe/github-contribution-stats/)
 
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
