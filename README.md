@@ -2,7 +2,8 @@
 [![Website](https://img.shields.io/website?label=pikrintr.carrd.co&style=for-the-badge&url=https%3A%2F%2Fpikrintr.carrd.co)](https://pikrintr.carrd.co/)
 
 <br />
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=pikrintr)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats]
+(https://github-contribution-stats.vercel.app/api/?username=pikrintr)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <br />
 ### Languages and Tools:
