@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pikrintr&label=Profile%20views&color=0e75b6&style=flat" alt="pikrintr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pikrintr" alt="pikrintr" /></a> </p>
 
-- 🔭 I’m currently working on [Portofolio](https://github.com/PikriNtr/pemula)
+-  I’m currently working on [Portofolio](https://github.com/PikriNtr/pemula)
 
-- 🌱 I’m currently learning **Javascript, React/NextJS library**
+-  I’m currently learning **Javascript, React/NextJS library**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
