@@ -17,5 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikrintr&show_icons=true&locale=en&layout=compact" alt="pikrintr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pikrintr&show_icons=true&locale=en" alt="pikrintr" /></p>
 
