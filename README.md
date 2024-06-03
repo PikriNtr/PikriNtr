@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pikrintr&label=Profile%20views&color=0e75b6&style=flat" alt="pikrintr" /> </p>
 
 
--  I’m currently working on [Nothing](https://github.com/PikriNtr)
+-  I’m currently working on [Nothing](https://github.com/PikriNtr/suisei-joyeuse)
 
--  I’m currently learning **Javascript, React/NextJS library**
+-  I’m currently learning **Clang, Javascript, Arduino stuff**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikrintr&show_icons=true&locale=en&layout=compact" alt="pikrintr" /></p>
