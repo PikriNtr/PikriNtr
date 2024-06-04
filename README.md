@@ -7,6 +7,8 @@
 -  I’m currently learning **Clang, Javascript, Arduino stuff**
 
 
+no. my main language is not Clang, its just bcs i upload 1gb file with clang on it
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikrintr&show_icons=true&locale=en&layout=compact" alt="pikrintr" /></p>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PikriNtr)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
