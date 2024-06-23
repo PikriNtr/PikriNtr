@@ -4,6 +4,8 @@
 <p align="center">I’m currently learning <strong>Clang, JavaScript, Arduino</strong></p>
 <p align="center">No, my main language is not Clang, it's just because I uploaded a 1GB file with Clang in it.</p>
 
+<p align="center">Portofolio with my art/design coming soon</p>
+
 <p align="center"><a href="https://github.com/PikriNtr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PikriNtr&theme=highcontrast&layout=compact"></a></p>
 <p align="center">
 <a href="https://www.t.me/PikriNtr" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact_Me-blue?style=for-the-badge&logo=Telegram">
