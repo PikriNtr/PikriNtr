@@ -1,6 +1,6 @@
 <h1 align="center">yo gw Fikri</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pikrintr&label=Profile%20views&color=0e75b6&style=flat" alt="pikrintr" /> </p>
-<p align="center">I’m currently working on <a href="https://github.com/PikriNtr/suisei-joyeuse">Joyeuse-Kernel and i'am a graphic designer</a></p>
+<p align="center">I’m currently working on <a href="https://github.com/PikriNtr/suisei-joyeuse">Joyeuse-Kernel</a> and i'am a graphic designer</p>
 <p align="center">I’m currently learning <strong>Clang, JavaScript, Arduino</strong></p>
 <p align="center">No, my main language is not Clang, it's just because I uploaded a 1GB file with Clang in it.</p>
 
